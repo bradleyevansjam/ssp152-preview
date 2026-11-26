@@ -27,8 +27,14 @@
       <file href="brand/fonts/Ubuntu-Light.ttf"/>
       <file href="brand/fonts/Ubuntu-Medium.ttf"/>
       <file href="brand/fonts/Ubuntu-Regular.ttf"/>
+      <file href="captions/ssp152-v1-report.ar.vtt"/>
+      <file href="captions/ssp152-v1-report.en.vtt"/>
       <file href="captions/ssp152-v2-request.ar.vtt"/>
       <file href="captions/ssp152-v2-request.en.vtt"/>
+      <file href="captions/ssp152-v3-allcall.ar.vtt"/>
+      <file href="captions/ssp152-v3-allcall.en.vtt"/>
+      <file href="captions/ssp152-v4-nextmatch.ar.vtt"/>
+      <file href="captions/ssp152-v4-nextmatch.en.vtt"/>
       <file href="fonts/CREDITS.txt"/>
       <file href="fonts/TwemojiCountryFlags.woff2"/>
       <file href="icons/custom-walkie-talkie.svg"/>
@@ -72,8 +78,12 @@
       <file href="images/ssp152-s6-egress.jpg"/>
       <file href="images/ssp152-s6-phone.jpg"/>
       <file href="scorm.js"/>
+      <file href="video/ssp152-v1-report.mp4"/>
       <file href="video/ssp152-v2-request.mp4"/>
-      <file href="aids/ssp152-resources-records-information-job-aids.pdf"/>
+      <file href="video/ssp152-v3-allcall.mp4"/>
+      <file href="video/ssp152-v4-nextmatch.mp4"/>
+      <file href="aids/SSP15.2-Resources-records-and-information-for-action-job-aids.pdf"/>
+      <file href="aids/SSP15.2-Resources-records-and-information-for-action-job-aids-pages/p1.jpg"/>
     </resource>
   </resources>
 </manifest>
